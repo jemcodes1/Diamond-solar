@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://diamond-solar.netlify.app/sitemap.xml
